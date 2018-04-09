@@ -2,7 +2,6 @@
 #   Allows Hubot to send text messages using 46elks.com API.
 #
 # Dependencies:
-#   None
 #
 # Configuration:
 #   HUBOT_46ELKS_USERNAME
